@@ -9,4 +9,4 @@ Need to find a Github user?  Look no further!  Click the link below and search a
 
 
 #### Search away:
-[Your search starts here](https://rachaelwhitefield.github.io/gitHubFinder/)
+Your search starts here [https://rachaelwhitefield.github.io/gitHubFinder/]
